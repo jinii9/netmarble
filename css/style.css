@@ -67,9 +67,7 @@ header .menu .nav li a {
 }
 
 /* section */
-section {
-  background-color: red;
-}
+section {}
 
 .bxslider {
   /* width: 100%; */
@@ -144,7 +142,6 @@ article {
   /* width: 100%; */
   /* height: 1000px; */
   padding-bottom: 160px;
-  background-color: skyblue;
 }
 
 .cardWrap {
